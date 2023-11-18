@@ -9,6 +9,5 @@ document.addEventListener('DOMContentLoaded', function () {
         if ((menuItemPath === 'index.html') && currentPage === '/itmoSite/index.html') {
             item.classList.add('active');
         }
-
     });
 });
